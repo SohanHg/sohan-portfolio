@@ -1,0 +1,4 @@
+# Force Unix line endings for deployment files
+Procfile text eol=lf
+*.py text eol=lf
+requirements.txt text eol=lf
